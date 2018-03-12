@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "vuejs-firebase-first-10884",
+    "staging": "vuejs-firebase-first-10884"
+  }
+}
